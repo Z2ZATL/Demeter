@@ -1,4 +1,4 @@
-![Agent Zero Logo](res/header.png)
+![Demeter Logo](res/header.png)
 # Agent Zero Documentation
 To begin with Agent Zero, follow the links below for detailed guides on various topics:
 
